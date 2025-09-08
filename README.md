@@ -19,3 +19,5 @@ AWS Networking :
  * Security Groups 
  * Vrtual Private Cloud (VPC)
     * Practical Example
+ * Internet Gateway and Route Table
+    * Proctical Example
