@@ -20,4 +20,6 @@ AWS Networking :
  * Vrtual Private Cloud (VPC)
     * Practical Example
  * Internet Gateway and Route Table
-    * Proctical Example
+    * Practical Example
+ * Security group and Jump server
+    * Example Scenario
