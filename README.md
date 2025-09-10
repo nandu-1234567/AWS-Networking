@@ -24,4 +24,4 @@ AWS Networking :
  * Security group and Jump server
     * Example Scenario
  * Vnet Peering
-    * Example scenario
+    * Example Scenario
